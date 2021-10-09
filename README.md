@@ -21,3 +21,7 @@ I am Prabhakar Dev.
 - 🔭 I’m currently working on #My website project
 - 👯 I’m looking to collaborate on projects written in rust language
 - [My Portfolio/Blog](https://pbkdev.pythonanywhere.com)
+
+
+
+![Prabhakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushashi11&show_icons=true)
