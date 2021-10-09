@@ -24,4 +24,5 @@ I am Prabhakar Dev.
 
 
 
-![Prabhakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushashi11&show_icons=true)
+![Prabhakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushashi11&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushashi11&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
