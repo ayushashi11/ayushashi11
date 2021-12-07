@@ -21,6 +21,7 @@ I am Prabhakar Dev.
 - 🔭 I’m currently working on #My website project
 - 👯 I’m looking to collaborate on projects written in rust language
 - [My Portfolio/Blog](https://pbkdev.pythonanywhere.com)
+- I am currently learning elixir
 
 
 
